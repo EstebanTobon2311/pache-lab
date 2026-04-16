@@ -137,8 +137,12 @@ Este paso no tiene respuesta correcta. Es donde el razonamiento propio entra com
 ### Paso 6 — Reflexión y entrega / *Reflection and submission*
 
 1. Completar todas las secciones de reflexión en el *template*
-2. Subir el archivo al *fork* personal
-3. Abrir un *Pull Request* al repositorio original con el nombre:  
+2. Subir el archivo al *fork* personal (este será la evidencia de trabajo de este laboratorio)
+
+> [!caution]   
+> El siguente procedimiento se realizara despues (cuando lo indique el profesor). Abstengase por ahora de seguirlo.
+> 
+> 3. Abrir un *Pull Request* al repositorio original con el nombre:  
    **`[Nombre del estudiante] — Replicación PACHE`**
 
 ---
